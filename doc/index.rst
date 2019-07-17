@@ -12,3 +12,4 @@ ALARA: Analytic and Laplacian Adaptive Radioactivity Analysis
    :maxdepth: 1
 
    usersguide/index
+   features
