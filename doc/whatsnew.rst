@@ -11,4 +11,4 @@ New Applications
 Upgrades and Bug Fixes
 ======================
 
-	Visit the NEWS file distributed code.
+	Visit the :doc:`NEWS <NEWS>` file distributed code.
