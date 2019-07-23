@@ -40,8 +40,8 @@ Features of ALARA
 	  indices. 
 
 	Finally, ALARA is undergoing continuous development with 
-	many new features planned for implementation, both to 
-	increase the level of physical modeling, the range of 
+	many :doc:`new features <whatsnew>` planned for implementation, 
+	both to increase the level of physical modeling, the range of 
 	problems which can be solved, and its ease of use. ALARA 
 	is a fully developed and validated alternative to the 
 	previous generation of activation codes. 

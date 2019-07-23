@@ -98,3 +98,30 @@ Intalled files and directories
 
 	* ANS6_4_3.txt - Data for implementing contact dose based 
 	  on standard ANS6.4.3. 
+	* IAEA.clearance.Bq_kg - Limits for determining the 
+	  material clearance rating based on IAEA standards. 
+	* FetterC_hi.Ci_m3.wdr (and FetterC_lo.Ci_m3.wdr) - 
+	  Limits for determining the waste disposal rating based 
+	  on the high (and low) values suggested by Fetter for 
+	  each isotope. 
+	* NRCA.Ci_m3.wdr (and NRCC.Ci_m3.wdr) - Limits for determining 
+	  the waste disposal rating based on the class A (and class 
+	  C) definitions provided by the U.S. Nuclear 
+	  Regulator Comissions. 
+	* elelib.std - A file in ALARA's element library format 
+	  describing the standard natural isotopic abundances 
+	  of all elements. 
+	* matlib.sample - A file in ALARA's material library 
+	  format to show samples of how materials can be 
+	  defined and including some commong fusion materials. 
+
+	**xsdir** - prefix/lib/alara/$OSTYPE
+
+	This directory is created to store platform-dependent data, 
+	namely binary ALARA v.2 format library files. The name of 
+	this directory is based on the environment variable $OSTYPE 
+	and the full path is compiled into the alara application 
+	as a default location for finding cross-section data. No 
+	files are put into this directory since acquiring and 
+	installing data is a separate activity. (See the 
+	:doc:`data guide <aboutdata>` for more on nuclear data.) 

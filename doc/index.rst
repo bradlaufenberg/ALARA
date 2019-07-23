@@ -16,3 +16,13 @@ ALARA: Analytic and Laplacian Adaptive Radioactivity Analysis
    installguide
    aboutdata
    features
+
+.. toctree::
+   :hidden:
+
+   NEWS
+
+
+ This work is supported in part by a grant from the ARIES Program 
+ of the `Department of Energy <https://www.energy.gov/>`_'s 
+ Office of Fusion Energy Sciences. 
