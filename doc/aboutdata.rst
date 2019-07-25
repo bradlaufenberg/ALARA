@@ -27,7 +27,7 @@ Data Formats
 	formats, this format is meant to describe the multi-group 
 	cross-section format used by FISPACT. Here are the first 
 	30 lines of the FENDL 2.0 Activation library with a 175 
-	group vitamin-j structure in the EAF format.::
+	group vitamin-j structure in the EAF format.
 
 | *******************************************************************************
 | *  FENDLA-2.0(0)175Gp THE FUSION EVALUATED NUCLEAR DATA LIBRARY   APR 1996    *
