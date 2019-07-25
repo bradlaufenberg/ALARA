@@ -8,19 +8,19 @@ ALARA: Analytic and Laplacian Adaptive Radioactivity Analysis
  Z-Pinch Power Plant study.
 
 
-.. toctree::
-   :maxdepth: 1
+ .. toctree::
+    :maxdepth: 1
 
-   whatsnew
-   usersguide/index
-   installguide
-   aboutdata
-   features
+    whatsnew
+    usersguide/index
+    installguide
+    aboutdata
+    features
 
-.. toctree::
-   :hidden:
-
-   NEWS
+ .. toctree::
+    :hidden:
+ 
+    NEWS
 
 
  This work is supported in part by a grant from the ARIES Program 
