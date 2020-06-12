@@ -12,6 +12,6 @@ project(ALARA VERSION 2.7.1)
 # add_subdirectory(doc)
 # add_subdirectory(sample)
 add_subdirectory(src)
-# add_subdirectory(tools)
+add_subdirectory(tools)
 
 
